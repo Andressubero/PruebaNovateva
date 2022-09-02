@@ -1,0 +1,22 @@
+.headerContainer {
+    min-height: 67px;
+    width: 100%;
+    border-bottom: 1px solid  #4C5D68;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.headerTitleContainer {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 32px;
+    color: #212121;
+    margin: 19.08px auto 18.19px 93px;
+}
+
+.headerButtonContainer {
+    margin: 22.46px 149.91px 11.32px auto;
+
+}

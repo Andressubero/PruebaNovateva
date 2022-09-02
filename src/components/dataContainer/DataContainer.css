@@ -1,0 +1,10 @@
+.dataContainer {
+    height: 158.37px;
+    width: 87%;
+    min-width: 300px;
+    margin: 0 auto;
+    border-bottom: 1px solid #D7D7D7;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+}
